@@ -1,0 +1,7 @@
+/home/ubuntu/repos/GitHubActionsCITesting/app/TestApp
+/home/ubuntu/repos/GitHubActionsCITesting/app/appsettings.Development.json
+/home/ubuntu/repos/GitHubActionsCITesting/app/appsettings.json
+/home/ubuntu/repos/GitHubActionsCITesting/app/TestApp.dll
+/home/ubuntu/repos/GitHubActionsCITesting/app/TestApp.deps.json
+/home/ubuntu/repos/GitHubActionsCITesting/app/TestApp.runtimeconfig.json
+/home/ubuntu/repos/GitHubActionsCITesting/app/TestApp.pdb
